@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Simple Level Loader - Example.unity
+    guid: 6d4dc171808bb4a4b82082d65d604a0c
+  - enabled: 1
+    path: Assets/Scenes/Simple Level Loader - Example Win Screen.unity
+    guid: d92b0fb6ed3d9aa4d832a92b2113f4ba
   m_configObjects: {}
